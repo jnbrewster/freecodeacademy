@@ -6,8 +6,6 @@ Remember, you can iterate through an array with a simple for loop, and access ea
 
 Remember to use Read-Search-Ask if you get stuck. Write your own code.
 
-Here are some helpful links:
-
 Comparison Operators
 
 */

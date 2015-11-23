@@ -13,7 +13,7 @@ Comparison Operators
 function largestOfFour(arr) {
   var longest = [0, 0, 0, 0];
   for (var i = 0; i < arr.length; i++) {
-    for (var s = 0; s < arr[i].length; s++) {
+    for (var j = 0; s < arr[i].length; s++) {
       if (longest[i] < arr[i][s]) {
         longest[i] = arr[i][s];
       }
